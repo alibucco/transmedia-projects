@@ -46,4 +46,4 @@ Through progressive decision-making scenarios, the experience challenges the ide
 
 ## 📂 Materials
 - [ARG Materials](assets/arg)  
-- [Hackathon documentation:](assets/hackaton) 
+- [Hackathon documentation](assets/hackaton) 

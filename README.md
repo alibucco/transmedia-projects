@@ -27,14 +27,12 @@ The narrative follows a worker who challenges the system by breaking ethical and
 
 ## 🤖 Hackathon – AI Ethics Interactive Experience
 
-![Hackathon Preview](assets/hackathon/cover.png)
+[Hackathon Stornaway Project](https://player.stornaway.io/watch/9f3a323c)
 
 Project developed during a hackathon in collaboration with dmstfctn and Rizosfera.
 
-👉 [View Live Project](INSERT LINK)
-
 ### Concept
-An interactive installation that reverses the traditional AI training paradigm:  
+An interactive game that reverses the traditional AI training paradigm:  
 the AI acts as the trainer, while the human becomes the subject being trained.
 
 Through progressive decision-making scenarios, the experience challenges the idea of AI objectivity.

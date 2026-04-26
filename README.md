@@ -9,7 +9,7 @@ The work combines narrative design, critical thinking on AI systems, and collabo
 
 ## 🎭 Transmedia ARG Project
 
-![ARG Walkthrough](https://youtu.be/mJMIF9Sod8w))
+[ARG Walkthrough](https://youtu.be/mJMIF9Sod8w)
 
 An Alternate Reality Game (ARG) developed in collaboration with the Design Department (DAD) at Politecnico di Torino.
 

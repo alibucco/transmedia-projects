@@ -7,7 +7,7 @@ The work combines narrative design, critical thinking on AI systems, and collabo
 
 ---
 
-## 🎭 Transmedia ARG Project
+## Transmedia ARG Project
 
 [ARG Walkthrough](https://youtu.be/mJMIF9Sod8w)
 
@@ -25,9 +25,9 @@ The narrative follows a worker who challenges the system by breaking ethical and
 
 ---
 
-## 🤖 Hackathon – AI Ethics Interactive Experience
+## Hackathon – AI Ethics Interactive Experience
 
-[Hackathon Stornaway Project](https://player.stornaway.io/watch/9f3a323c)
+[Website](https://waluigi.rizosfera.org/)
 
 Project developed during a hackathon in collaboration with dmstfctn and Rizosfera.
 
@@ -44,15 +44,6 @@ Through progressive decision-making scenarios, the experience challenges the ide
 
 ---
 
-## 🧠 Skills & Topics
-- Transmedia storytelling  
-- Interaction design  
-- AI ethics and critical thinking  
-- Concept development  
-- Team collaboration in multidisciplinary environments  
-
----
-
 ## 📂 Materials
-- ARG presentation: [link or file]  
-- Hackathon documentation: [link or file]  
+- ARG presentation: [assets/arg]  
+- Hackathon documentation: [assets/hackaton]  
